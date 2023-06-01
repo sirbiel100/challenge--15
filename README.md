@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://github.com/sirbiel100/challenge--15)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/testimonials-grid-section-with-scss-xp_ip7aGtC)
+- Live Site URL: [Click Here](https://github.com/sirbiel100/challenge--15)
 
 ## My process
 
